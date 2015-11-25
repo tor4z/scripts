@@ -1,0 +1,2 @@
+# scripts
+Boring script collection
